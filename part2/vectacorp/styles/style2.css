@@ -1,0 +1,30 @@
+body {
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+    margin: 0 0 0 20px;}
+
+ul {
+    padding-left: 0;
+    margin-left: 0;
+    list-style-type: none;}
+
+h2 {
+    background-color: #DFE3E6 ;
+    color:#CC1C0D ;
+    border: 1px solid #929CA4 ;
+    border-radius: 5px;
+    padding-left: .5em;}
+
+a[href] {
+    color:#CC1C0D ;
+}
+
+
+section img {
+    border: 1px solid #CC1C0D;
+    border-radius: 50px 50px;
+    float: left;
+    margin:1em 1.5em 0 0;}
+
